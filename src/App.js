@@ -5,7 +5,8 @@ import Nav from './components/Nav'
 import Cards from './components/Cards'
 import swal from 'sweetalert'
 
-const { APIKEY } = process.env;
+
+
 
 
 
@@ -15,11 +16,13 @@ function App(){
  
 
   function onSearch(ciudad) {
-console.log(APIKEY)
+
 const API = '11eb6a052535065313b3c194887996d0'
+
     
-    
-    fetch(`https://api.openweathermap.org/data/2.5/weather?q=${ciudad}&appid=11eb6a052535065313b3c194887996d0&units=metric`)
+fetch(
+  `https://api.openweathermap.org/data/2.5/weather?q=${ciudad}&appid=${process.env.REACT_APP_WEATHER_API_KEY}&units=imperial`
+)
       .then(r => r.json())
       .then((recurso) => {
         
