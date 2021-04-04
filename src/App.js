@@ -17,7 +17,7 @@ function App(){
 
   function onSearch(ciudad) {
 
-const API = '11eb6a052535065313b3c194887996d0'
+
 
     
 fetch(
