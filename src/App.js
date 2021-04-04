@@ -19,7 +19,7 @@ console.log(APIKEY)
 const API = '11eb6a052535065313b3c194887996d0'
     
     
-    fetch(`http://api.openweathermap.org/data/2.5/weather?q=${ciudad}&appid=11eb6a052535065313b3c194887996d0&units=metric`)
+    fetch(`https://api.openweathermap.org/data/2.5/weather?q=${ciudad}&appid=11eb6a052535065313b3c194887996d0&units=metric`)
       .then(r => r.json())
       .then((recurso) => {
         
