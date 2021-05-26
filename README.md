@@ -2,7 +2,7 @@
 
 🔭 It is an application for search the weather in all the cities of the world. You are going to find the minimum and maximum temperatures of those places.
 
-# Instalaction:
+# Instalation:
 📝 Do a npm install to view the application.
 
 # Technologies used:
