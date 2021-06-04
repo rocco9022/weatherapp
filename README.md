@@ -26,4 +26,4 @@ Node.js.
 
 x-special/nautilus-clipboard
 copy
-![Image text](file:///home/leandro/Pictures/Screenshot%20from%202021-06-04%2009-58-38.png)
+![Image text](https://drive.google.com/file/d/1wxdMViub7SsSqsUkQ_7ZhqsOkbG56mWH/view)
