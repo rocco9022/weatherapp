@@ -24,6 +24,3 @@ Node.js.
 ![image](https://user-images.githubusercontent.com/74310843/119369243-54413380-bc8a-11eb-9855-3c5c93013bbd.png)
 
 
-x-special/nautilus-clipboard
-copy
-![Image text](https://github.com/rocco9022/weatherapp/issues/1#issue-911493573)
