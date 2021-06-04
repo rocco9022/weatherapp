@@ -26,4 +26,4 @@ Node.js.
 
 x-special/nautilus-clipboard
 copy
-![Image text](https://drive.google.com/file/d/1wxdMViub7SsSqsUkQ_7ZhqsOkbG56mWH/view)
+![Image text](https://github.com/rocco9022/weatherapp/issues/1#issue-911493573)
