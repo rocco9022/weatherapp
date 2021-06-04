@@ -23,3 +23,7 @@ Node.js.
 ![image](https://user-images.githubusercontent.com/74310843/119369186-44c1ea80-bc8a-11eb-8db0-73ca8560125e.png)
 ![image](https://user-images.githubusercontent.com/74310843/119369243-54413380-bc8a-11eb-9855-3c5c93013bbd.png)
 
+
+x-special/nautilus-clipboard
+copy
+file:///home/leandro/Pictures/Screenshot%20from%202021-06-04%2009-58-38.png
